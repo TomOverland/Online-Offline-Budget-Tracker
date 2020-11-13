@@ -13,8 +13,6 @@ Progressive web application that allows users to add expenses to a budget tracke
 - [Demonstration](#demonstration)
 - [Questions](#questions)
 
-![Screenshot of Application](https://github.com/TomOverland/Workout-Tracker/blob/main/public/assets/Last-Workout.JPG)
-
 
 ## Description:
 
