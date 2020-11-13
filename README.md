@@ -1,5 +1,5 @@
 # Online-Offline-Budget-Tracker
-Progressive web application that allows users to add expenses to a budget tracker both online and offline.  This application demonstrates a simple full stack development CRUD application with front end implemented with HTML and CSS.  The backend is implemented with Node.js and Express. The database was constructed with Mongoose, MongoDB, and IndexedDB, and implemented to Heroku with MongoDB Atlas.
+Progressive web application that allows users to add expenses to a budget tracker both online and offline.  
 
 [Deployed on Heroku](https://secret-tor-92519.herokuapp.com/).
 
@@ -18,7 +18,7 @@ Progressive web application that allows users to add expenses to a budget tracke
 
 ## Description:
 
-This application allows a user to add expenses and deposits to a budget tracker with or without an internet connection.  When entering transactions offline, they will update the total when the user reconnects to the internet.
+This application allows a user to add expenses and deposits to a budget tracker with or without an internet connection.  When entering transactions offline, they will update the total when the user reconnects to the internet.  This application demonstrates a simple full stack development CRUD application with front end implemented with HTML and CSS.  The backend is implemented with Node.js and Express. The database was constructed with Mongoose, MongoDB, and IndexedDB, and implemented to Heroku with MongoDB Atlas.
 
 ![Screenshot of Application](screenshot-of-application)
 
