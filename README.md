@@ -20,7 +20,7 @@ This application allows a user to add expenses and deposits to a budget tracker 
 
 ![Screenshot of Application](https://github.com/TomOverland/Online-Offline-Budget-Tracker/blob/main/public/assets/Application.JPG)
 
-* If you inspect the page using Google Dev Tools, you can simulate an offline experiance from the Network tab.
+* If you inspect the page using Google Dev Tools, you can simulate an offline experience from the Network tab.
 
 ![Screenshot of Application](https://github.com/TomOverland/Online-Offline-Budget-Tracker/blob/main/public/assets/offline.JPG)
 
