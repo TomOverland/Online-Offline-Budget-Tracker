@@ -20,6 +20,14 @@ This application allows a user to add expenses and deposits to a budget tracker 
 
 ![Screenshot of Application](screenshot-of-application)
 
+If you inspect the page using Google Dev Tools, you can simulate an offline experiance from the Network tab.
+
+(image of Network tab)
+
+Once you've gone "offline" you can add or subtract costs to the budget tracker, and observe those items pending upload if you check the IndexedDB database located in the Application tab.  You will likely have to "reload" the IndexedDB information to see the pending entry.
+
+(image of application tab)
+
 
 ## Installation:
 
@@ -81,14 +89,6 @@ Everyone is welcome to contribute. Create a pull request with your changes and I
 This application was not developed with any tests.
 
 ## Demonstration
-
-If you inspect the page using Google Dev Tools, you can simulate an offline experiance from the Network tab.
-
-(image of Network tab)
-
-Once you've gone "offline" you can add or subtract costs to the budget tracker, and observe those items pending upload if you check the IndexedDB database located in the Application tab.  You will likely have to "reload" the IndexedDB information to see the pending entry.
-
-(image of application tab)
 
 - [YouTube](youtube-link)
 
