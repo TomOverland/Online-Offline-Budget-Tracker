@@ -35,7 +35,7 @@ This application allows a user to add expenses and deposits to a budget tracker 
 
 ## Installation:
 
-#### Step 1 - Make sure you have a code editor, MySQL, Node.js and Node Package Manager installed
+#### Step 1 - Make sure you have a code editor, MongoDB, Node.js and Node Package Manager installed
 
 The code editor I used was Visual Studio Code. It can be found [here](https://code.visualstudio.com/download).  
 Node.js and NPM download can be found [here](https://nodejs.org/en/).  
