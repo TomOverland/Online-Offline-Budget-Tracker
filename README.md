@@ -18,15 +18,19 @@ Progressive web application that allows users to add expenses to a budget tracke
 
 This application allows a user to add expenses and deposits to a budget tracker with or without an internet connection.  When entering transactions offline, they will update the total when the user reconnects to the internet.  This application demonstrates a simple full stack development CRUD application with front end implemented with HTML and CSS.  The backend is implemented with Node.js and Express. The database was constructed with Mongoose, MongoDB, and IndexedDB, and implemented to Heroku with MongoDB Atlas.
 
-![Screenshot of Application](screenshot-of-application)
+![Screenshot of Application](https://github.com/TomOverland/Online-Offline-Budget-Tracker/blob/main/public/assets/Application.JPG)
 
-If you inspect the page using Google Dev Tools, you can simulate an offline experiance from the Network tab.
+* If you inspect the page using Google Dev Tools, you can simulate an offline experiance from the Network tab.
 
-(image of Network tab)
+![Screenshot of Application](https://github.com/TomOverland/Online-Offline-Budget-Tracker/blob/main/public/assets/offline.JPG)
 
-Once you've gone "offline" you can add or subtract costs to the budget tracker, and observe those items pending upload if you check the IndexedDB database located in the Application tab.  You will likely have to "reload" the IndexedDB information to see the pending entry.
+* Once you've gone "offline" you can add or subtract costs to the budget tracker, and observe those items pending upload if you check the IndexedDB database located in the Application tab.  You will likely have to "reload" the IndexedDB information to see the pending entry.
 
-(image of application tab)
+![Screenshot of Application](https://github.com/TomOverland/Online-Offline-Budget-Tracker/blob/main/public/assets/pending-entry.JPG)
+
+* Once the user returns to online, the entry is added to the MongoDB Atlas collection.
+
+![Screenshot of Application](https://github.com/TomOverland/Online-Offline-Budget-Tracker/blob/main/public/assets/Atlas-Collection.JPG)
 
 
 ## Installation:
